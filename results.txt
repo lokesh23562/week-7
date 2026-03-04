@@ -1,0 +1,19 @@
+HYPOTHESIS TEST RESULTS
+
+Test 1: Pearson Correlation
+H0: No relationship between Marketing and Sales
+H1: There is a relationship
+
+Result: p < 0.05 → Reject H0
+
+Test 2: Independent T-Test
+H0: High and Low marketing have same sales
+H1: Sales differ
+
+Result: p < 0.05 → Reject H0
+
+Test 3: ANOVA
+H0: All regions have same mean sales
+H1: At least one region differs
+
+Result: Based on p-value
